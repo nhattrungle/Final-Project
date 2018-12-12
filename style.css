@@ -1,0 +1,152 @@
+*
+{	
+	margin: 0;
+	padding: 0;
+}
+
+.home cms-frontend {
+	background-size: cover;
+
+	
+}
+
+.header {
+	background-color: #e7e7e7; 
+	
+	text-align: center; 
+	height: 160px; 
+	border-style: double; 
+	border-color: yellow; 
+	position: relative; }
+
+.header h5 {
+	margin-top: -10px;
+	margin-left: 800px;
+	color: green;
+	font-weight: bold;
+	
+}
+
+.body {
+    background-color: #74c044;
+	
+	
+}
+body h2 {
+	
+	margin-left: 20px;
+	color: white;
+
+}
+.container h4,p {
+	margin-left: 20px;
+	color: white;
+}
+
+.container p {
+	color: white;
+}
+
+.logo img{
+	width: 70%;
+	
+	
+}
+
+.container {
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(pic_7.jpg);
+	width: 2188px;
+	height: 450px;
+	margin-bottom: 40px;
+	height: 580px;
+}
+
+.picture-box{
+  display: inline-flex;
+  padding-left: 60px;
+  margin-left: 43px;
+  margin-top: 40px;
+ 
+}
+
+
+#carouselExampleFade1 {
+	border: 4px white solid;
+	width: 47%;
+	
+}
+
+#carouselExampleFade2 {
+	border: 4px white solid;
+	width: 47%;
+	
+}
+
+.jumbotron {
+	border: 4px white solid;
+	margin-left: 102px;
+	margin-right: 102px;
+	
+}
+
+.jumbotron h3, p {
+	color: black;
+}
+
+.row
+{
+	display: inline-flex;
+}
+
+.main-nav li
+{
+	display: inline-block;
+	padding: 5px 20px;
+	padding-top: 45px;
+	
+}
+.main-nav li a 
+{
+	color: green;
+	font-size: 16px;
+	font-weight: bold;
+	font-family: 'Oswald', sans-serif;
+	
+}
+
+.display-4
+{ 	text-align: center;
+	
+}
+
+.form-group
+{	margin-left: 102px;
+	margin-right: 102px;
+	
+}
+
+.card {
+	display: inline-flex;
+	margin-left: 120px;
+	height: 580px;
+	border: 2px white solid;
+	background-color: #e7e7e7; 
+	
+}
+.card-body p {
+	color: black;
+	
+}
+
+.card-body h5 {
+	text-align: center;
+	color: green;
+	font-weight: bold;
+	
+}
+
+
+.footer
+{	text-align: center;
+	
+}
